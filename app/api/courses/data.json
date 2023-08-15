@@ -1,0 +1,113 @@
+{
+    "site_info": {
+        "site_name": "Usman Helpdesk",
+        "favicon": "./next.svg",
+        "custom_domain": "https://google.com",
+        "logotext_extension": "helodeskdata",
+        "setlogo": "https://www.freepnglogos.com/uploads/starbucks-logo-png-25.png",
+        "logourl": "https://www.facebook.com",
+        "analytics_tracker_id": "my_website_notionbear",
+        "blog_newsletter_catalogue_listview": "true",
+
+        "loadinganimation": "https://tulsisoftware.com/assets/img/loader.gif",
+
+        "user_icon": "https://cdn-icons-png.flaticon.com/512/1791/1791325.png",
+        "bot_icon": "",
+
+        "heroColor": "#b2dfdb",
+        "primaryColor": "#007047",
+        "secondaryColor": "#D7F9F1",
+        "complementaryColor": "#ecfffb",
+
+        "heroFont": "'Poppins', sans-serif",
+        "primaryFont": "'Poppins', sans-serif",
+        "secondaryFont": "'Raleway', sans-serif",
+
+        "social_sharing_banner": "https://example.com/sharing_banner.png",
+        "site_map_generation": "true"
+    },
+    "seoData":  {
+        "metaDesc": "AngelBlock is a incubator",
+        "metaKeywords": "angelblock, incubaator, etc;",
+        "metaTitle": "AngelBlock ",
+        "siteBanner": "https://firebasestorage.googleapis.com/v0/b/avatar-37593.appspot.com/o/SEO%2FsiteBanner_1688743924528?alt=media&token=0a49810b-219b-4fc1-9947-8f51d9d35063",
+        "siteIcon": "https://firebasestorage.googleapis.com/v0/b/avatar-37593.appspot.com/o/SEO%2FsiteIcon_1688743832827?alt=media&token=d645b00c-e198-4b82-ac92-a380cb6fdace",
+        "siteTitle": "notionbear private limited",
+        "setlogo": "https://firebasestorage.googleapis.com/v0/b/avatar-37593.appspot.com/o/CustomDesign%2F9yKgYAq472?alt=media&token=c3a24a4f-183e-4aea-8822-baf8b1e1ca20"
+      },
+    "header_links": [
+        { "title": "Pricing", "url": "https://example.com/home", "ctabutton": "false" },
+        { "title": "Business Ideas", "url": "https://example.com/home", "ctabutton": "false" },
+        { "title": "Growth Ideas", "url": "https://example.com/home", "ctabutton": "false" },
+        { "title": "4,418+ Founder Case Studies", "url": "https://example.com/home", "ctabutton": "true" }
+    ],
+    "footer_links": [
+        { "title": "Privacy Policy", "url": "https://example.com/privacy" },
+        { "title": "Terms of Service", "url": "https://example.com/terms" },
+        { "title": "FAQ", "url": "https://example.com/faq" }
+    ],
+    "social_links": [
+        { "platform": "Twitter", "title": "Privacy Policy", "url": "https://twitter.com/privacy" },
+        { "platform": "Facebook", "title": "Terms of Service", "url": "https://facebook.com/terms" },
+        { "platform": "Instagram", "title": "FAQ", "url": "https://instagram.com/faq" },
+        { "platform": "LinkedIn", "title": "FAQ", "url": "https://linkedin.com/faq" }
+    ],
+    "hero": {
+        "hero_banner": "https://t3.ftcdn.net/jpg/03/05/83/84/360_F_305838467_v52Tyml9vmCzhodgMCH0L0kWw85Z2iUo.jpg",
+        "hero_text": "Unlock the secrets to 7-figure online businesses",
+        "hero_subtext": "Dive into our database of 4,418 case studies & join our community of thousands of successful founders.",
+        "hero_search_placeholder": "Search using our AI Helper Bot.",
+        "hero_subscribeform_placeholder": "Enter your email here 2234.",
+        "hero_subscribeform_button": "Join our Community"
+    },
+    "top_clients": [
+        { "image": "https://notionbear.com/assets/images/influencers/ana.png", "url": "https://example.com/privacy" },
+        { "image": "https://notionbear.com/assets/images/influencers/Anthony.png", "url": "https://example.com/terms" },
+        { "image": "https://notionbear.com/assets/images/influencers/ayush.png", "url": "https://example.com/faq" }
+    ],  
+    "top_client_hero_text": "Join +1000 of creators, and startups feel the ease of doing business.",
+    "top_client_footer_text": "Join +1000 of creators, and startups feel the ease of doing business.",
+    "featured_in": [
+        { "image": "https://payables.netlify.app/assets/img/brands/01.svg", "url": "https://example.com/privacy" },
+        { "image": "https://payables.netlify.app/assets/img/brands/02.svg", "url": "https://example.com/terms" },
+        { "image": "https://payables.netlify.app/assets/img/brands/03.svg", "url": "https://example.com/terms" },
+        { "image": "https://payables.netlify.app/assets/img/brands/04.svg", "url": "https://example.com/terms" },
+        { "image": "https://payables.netlify.app/assets/img/brands/05.svg", "url": "https://example.com/faq" }
+    ],      
+    "abovefooter": {
+        "abovefooter_subscribeform_placeholder": "Enter your email here 4444.",
+        "footer_banner_text": "Don’t miss out on creating your next big thing.",
+        "abovefooter_subscribeform_button": "Join",
+        "footer_banner": "https://t3.ftcdn.net/jpg/03/05/83/84/360_F_305838467_v52Tyml9vmCzhodgMCH0L0kWw85Z2iUo.jpg"
+    },
+    "footer": {
+        "footerlogo": "https://www.freepnglogos.com/uploads/starbucks-logo-png-25.png",
+        "footer_copyright_text": "NotionBear Pvt. Ltd"
+    },
+    "exit_intent": {
+        "exitintent_show": "false",
+        "exitintent_image": "https://www.freepnglogos.com/uploads/starbucks-logo-png-25.png",
+        "exitintent_headline": "Become a smarter creator (in just 10 minutes per week)",
+        "exitintent_subheadline": "Join 25,000+ creators getting firsthand experiments, expert interviews, and actionable advice every week.",
+        "exitintent_placeholder": "Youremail@website.com",
+        "exitintent_button": "Subscribe Now"
+    },
+    "embeds": {
+        "embed_underarticle": "<iframe src=\"https://widget.senja.io/widget/0a5d68d9-fe17-46e5-bf29-d6809e5ebda1\"></iframe>",
+        "embed_abovefooter": "<iframe src=\"https://widget.senja.io/widget/0a5d68d9-fe17-46e5-bf29-d6809e5ebda1\"></iframe>",
+        "embed_underhero": "<iframe src=\"https://widget.senja.io/widget/0a5d68d9-fe17-46e5-bf29-d6809e5ebda1\"></iframe>",
+        "embed_leavingthepage_popup": "<iframe src=\"https://example.com/cta\"></iframe>"
+    },
+    "aichat": {
+        "chat_title": "Starbucks AI",
+        "chat_subtitle": "Get instant support using our slick AI Bot.",
+        "raiseticket": "Starbucks Support",
+        "raiseticketlink": "https://google.com",
+        "chat_placeholder": "Ask anything you have in mind about starbucks.",
+        "chat_button": "Ask"
+    },    
+    "code_injections": {
+        "js": "// Add custom JavaScript code here\nfunction greet() {\n  console.log('Hello, World!');\n}\n\n// Call the greet() function\nsetTimeout(greet, 1000);\n",
+        "css": "body {\n  background-color: #f2f2f2;\n  font-family: 'Arial', sans-serif;\n}\n\nh1 {\n  color: #333333;\n  font-size: 24px;\n}\n\n.btn {\n  background-color: #333333;\n  color: #ffffff;\n  padding: 8px 16px;\n  border-radius: 4px;\n  text-decoration: none;\n}\n\n.btn:hover {\n  background-color: #555555;\n}\n"
+    }
+}
